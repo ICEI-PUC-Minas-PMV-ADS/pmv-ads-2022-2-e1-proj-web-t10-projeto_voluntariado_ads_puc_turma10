@@ -48,6 +48,24 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 | Critérios de Êxito | Estar navegando em qualquer aba do site. |
 
 
+| Caso de Teste | CT-05-ONG Voluntariada |
+| --- | --- |
+| Requisitos Associados | RF-10 - Permitir que as ONGs cadastrem suas atividades, a fim de receber as inscrições de novos usuários.|
+| Objetivo do Teste | ● Verificar se a aba está disponível para que as ONGs possam se cadastrar. ● Verificar se a seção está gerando o anúncio das ONGs. |
+| Passos | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Acessar a página principal 4) Clicar na aba de ONGs voluntariadas |
+| Critérios de Êxito | A página deve apresentar nome, descrição e requisitos da vaga disponível, além de um mapa de localização para facilitar o acesso do voluntário até o local da atividade, e também uma imagem de destaque da vaga em questão. |
+
+
+| Caso de Teste | CT-06- Seja voluntário |
+| --- | --- |
+| Requisitos Associados | ●RF-11 - Permitir que os usuários inscrevam-se e tornem-se voluntários. ●RF-12 - Será apresentada uma imagem correspondente à vaga em questão
+(thumbnail).|
+| Objetivo do Teste |● Verificar se a aba está disponível para que os futuros voluntários possam cadastrar-se. ● Verificar se a barra de busca por localização está disponibilizando corretamente as regiões, assim o usuário poderá escolher a de sua preferência. |
+| Passos | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Acessar a página principal 4) Clicar na aba “Seja Voluntário” |
+| Critérios de Êxito | ● A barra de busca apresentada poderá ser utilizada para filtrar a localização desejada. ● Ao clicar nas setas direcionadas para esquerda e para direita, o site deve alterar as vagas que serão apresentadas. ● Deverá conter imagens visíveis associadas às vagas destacadas. ● Ao ser direcionado para a vaga em questão, será apresentado nome, descrição e requisitos da vaga disponível, um mapa de localização para facilitar o acesso do voluntário até o local da atividade, e a imagem de destaque desta vaga. |
+
+
+
 
 
 
