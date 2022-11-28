@@ -59,7 +59,7 @@ nome, e-mail e mensagem.
 >> - O rodapé fixo estará presente em todas as abas do site, contendo umcampo de inscrição de e-mail para recebimento de newsletter e o logo da
 Puc Minas.
 
-* CONSIDERAÇÕES: Muitissímos sites acompanham um rodapé fixo com informações que o usuário pode necessitar a qualquer momento durante a navegação. Por conta disso, este rodapé está presente no site VOLUNTAR, para que de forma otimizada o usuário tenha a posibilidade de entrelaçar contatos com a aplicação. Recebendo newsletter via e-mail por exemplo. Além disso, a logo da PUC minas é um "atalho" clicável que irá lhe redirecionar para o seu site oficial e institucional. 
+* CONSIDERAÇÕES: Muitos sites acompanham um rodapé fixo com informações que o usuário pode necessitar a qualquer momento durante a navegação. Por conta disso, este rodapé está presente no site VOLUNTAR, para que de forma otimizada o usuário tenha a posibilidade de entrelaçar contatos com a aplicação. Recebendo newsletter via e-mail por exemplo. Além disso, a logo da PUC minas é um "atalho" clicável que irá lhe redirecionar para o seu site oficial e institucional. 
 
 
 
