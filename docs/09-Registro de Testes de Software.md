@@ -1,4 +1,7 @@
 # Registro de Testes de Software
+
+<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+
 Os relatórios obtidos nos testes de software realizados são descritos abaixo.
 
 ## Avaliação
@@ -44,6 +47,12 @@ nome, e-mail e mensagem.
   Primeiro, o usuário pode escrever seu e-mail incorretamente, faltando elementos como o @; Pode acabar esquecendo de preencher um dos campos e nesse caso isso compromete o envio de uma dúvida, contato etc. A comunicação é afetada.
   Por conta disso um dos nossos testes está envolto na obrigatoriedade de preenchimento dos campos principais. O teste obteve êxito.
   
+  ![imagem_2022-11-27_220955395](https://user-images.githubusercontent.com/114962362/204171414-0e0751da-01ae-4ff6-8a17-76fc1cf7868a.png)
+> *- Redirecionamento de páginas*
+
+* CONSIDERAÇÕES: Foi constatado êxito no teste de redirecionamento.
+  
+
 
 >> ![TESTE  - PAG INICIAL - VISUALIZAÇÃO - OBRIGATORIO 3](https://user-images.githubusercontent.com/114964435/204155452-650e9362-9467-411b-afb7-07ef87ea804c.png)
 >> |RF-06 |
@@ -52,6 +61,21 @@ Puc Minas.
 
 * CONSIDERAÇÕES: Muitissímos sites acompanham um rodapé fixo com informações que o usuário pode necessitar a qualquer momento durante a navegação. Por conta disso, este rodapé está presente no site VOLUNTAR, para que de forma otimizada o usuário tenha a posibilidade de entrelaçar contatos com a aplicação. Recebendo newsletter via e-mail por exemplo. Além disso, a logo da PUC minas é um "atalho" clicável que irá lhe redirecionar para o seu site oficial e institucional. 
 
+
+
+**CT-02-Login**
+> ![image](https://user-images.githubusercontent.com/114962362/204172577-88066c19-2ff5-4df5-8148-233e82d6ed86.png)
+>> | RF-07 |
+>> - A aba de login deve permitir ao usuário a inserção dos dados 
+(e-mail e senha) para acessar seu perfil no site.
+
+Após o teste, foi constatado êxito.
+
+![image](https://user-images.githubusercontent.com/114962362/204172961-e5f12ec5-f24b-4034-8497-79346c0429db.png)
+> *- Domínio @ - OK*
+
+![image](https://user-images.githubusercontent.com/114962362/204173479-011d46ce-204a-4248-b696-b2de3187379e.png)
+> *- Preencher o campo - OK*
 
 
 
@@ -75,7 +99,7 @@ Após a realização dos testes de navegação na página de notificação, o re
 
 
 
-**CT-05-ONG Voluntariada*
+**CT-05-ONG Voluntariada**
 >![Untitled design (33)](https://user-images.githubusercontent.com/114962362/204166534-e1d35096-f921-47b9-abc6-10aab404f3c9.png)
 >> | RF-10 |
 >> - Permitir que as ONGs cadastrem suas atividades, a fim de receber as inscrições de novos usuários. Após a realização dos teste, constatamos que a área para cadastro de atividades de ONGs está funcionando de acordo com os critérios estabelecidos. Apresentando nome, imagem, descrição e requisitos. Presente nesta página também um mapa de localização via Google Maps.
@@ -90,7 +114,7 @@ Após a realização dos testes de navegação na página de notificação, o re
 >> | RF-11 |
 >> | RF-12 |
 
-* CONSIDERAÇÕES:
+* CONSIDERAÇÕES: Nesta página do site, a finalidade dos testes foi de garantir que, todos os voluntários interessados em participar de algum projeto consigam se cadastrar sem nenhum impedimento, além de testar a opção de pesquisar por localização, considerando a utilização de API “Google maps”.
 
 
 
@@ -103,20 +127,19 @@ Após a realização dos testes de navegação na página de notificação, o re
 >> | RF-14 |
 >> - Será apresentada uma imagem (thumbnail) e, logo abaixo, uma pequena descrição correspondente à atividade em questão.
 
-* CONSIDERAÇÕES:
+* CONSIDERAÇÕES: Nesta página do site, a intenção dos testes foi de garantir que, todas as atividades estejam visíveis, que os voluntários conseguem se cadastrar nas atividades e a funcionalidade da barra de filtros, havendo êxito nos testes realizados.
 
 
 
 **CT-08-Contato**
-![imagem_2022-11-27_212106707](https://user-images.githubusercontent.com/114962362/204167992-5e508d60-9310-44ea-a427-c7fd176bd398.png)
 ![imagem_2022-11-27_212809111](https://user-images.githubusercontent.com/114962362/204168390-4b371a16-84a5-400d-a5d7-ac10b0e266a6.png)
 ![imagem_2022-11-27_212731294](https://user-images.githubusercontent.com/114962362/204168352-2320a62e-ef1e-4b96-9bfd-52c5a251988a.png)
 ![imagem_2022-11-27_212531807](https://user-images.githubusercontent.com/114962362/204168229-05c0bf05-f142-4f6e-99b5-a10b3556f39b.png)
-![image](https://user-images.githubusercontent.com/114962362/204168553-f4b08fe0-14fa-4724-bef3-007e4da8a3a6.png)
+![image](https://user-images.githubusercontent.com/114962362/204170441-12ecad8e-49fc-403d-a403-1b6c1c1f64eb.png)
 >> | RF-15 |
 >> - Permitir que os usuários possam entrar em contato em caso de dúvidas ou informações.
 
-* CONSIDERAÇÕES:Houve a realização dos testes com o preenchimento dos campos obrigatórios e testes caso o usuário não preencha todos de forma correta. Após isso, foi constatado êxito.
+* CONSIDERAÇÕES: Houve a realização dos testes com o preenchimento dos campos obrigatórios e testes caso o usuário não preencha todos de forma correta. Após isso, foi constatado êxito.
 
 
 
