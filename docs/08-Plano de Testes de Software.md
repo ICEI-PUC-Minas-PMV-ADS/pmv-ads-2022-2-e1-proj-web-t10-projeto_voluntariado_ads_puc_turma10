@@ -91,8 +91,7 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 | Requisitos Associados | RF-15 - Permitir que os usuários se inscreva para receber as campanhas de newsletter do Projeto Voluntar. |
 | Objetivos do Teste | Verificar se o campo obrigatório (e-mail) será respeitado pela regra pré-definida. |
 | Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Acessar a página principal. |
-| Critérios de Êxito |1)  O campo “e-mail” deverá conter um domínio após o uso do @. 2) Ao não obedecer a regra pré-definida, será gerado um tooltip 
-com a notificação: “Preencha este campo.". |
+| Critérios de Êxito |1)  O campo “e-mail” deverá conter um domínio após o uso do @. 2) Ao não obedecer a regra pré-definida, será gerado um tooltip com a notificação: “Preencha este campo.". |
 
 
 
