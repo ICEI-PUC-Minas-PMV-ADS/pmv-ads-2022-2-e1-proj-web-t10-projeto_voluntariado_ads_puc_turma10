@@ -60,8 +60,7 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 
 | Caso de Teste | CT-06-Seja Voluntário |
 | --- | --- |
-| Requisitos Associados | RF-11 - Permitir que os usuários inscrevam-se e tornem-se voluntários; RF-12 - Será apresentada uma imagem correspondente à vaga em questão
-(thumbnail). |
+| Requisitos Associados | RF-11 - Permitir que os usuários inscrevam-se e tornem-se voluntários; RF-12 - Será apresentada uma imagem correspondente à vaga em questão(thumbnail). |
 | Objetivos do Teste | 1) Verificar se a aba está disponível para que os futuros voluntários possam cadastrar-se; 2) Verificar se a barra de busca por localização está disponibilizando corretamente as regiões, assim o usuário poderá escolher a de sua preferência. |
 | Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Acessar a página principal; 4) Clicar na aba Seja Voluntário. |
 | Critérios de Êxito | 1) A barra de busca apresentada poderá ser utilizada para filtrar a localização desejada; 2) Ao clicar nas setas direcionadas para esquerda e para direita, o site deve alterar as vagas que serão apresentadas; 3) Deverá conter imagens visíveis associadas às vagas destacadas; 4) Ao ser direcionado para a vaga em questão, será apresentado nome, descrição e requisitos da vaga disponível, um mapa de localização para facilitar o acesso do voluntário até o local da atividade, e a imagem de destaque desta vaga. |
