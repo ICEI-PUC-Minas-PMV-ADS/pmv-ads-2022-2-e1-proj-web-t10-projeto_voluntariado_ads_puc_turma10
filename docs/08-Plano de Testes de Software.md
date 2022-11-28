@@ -15,10 +15,26 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 
 | Caso de Teste | CT-01-Visualizar página principal |
 | ------------- | ------------- |
-| Requisitos Associados  |  RF-01- O cabeçalho será fixo, acompanhando o usuário por toda home page ao usar a barra de rolagem. Nele irá conter aba de login, notificação e botão home, além do logo e as redes sociais do projeto. ; RF-02 - Deverá conter na página principal 3 cards que permita a inscrição de ONGs e voluntários para a realização e disponibilização de atividades;   RF-03 - O site deve apresentar uma imagem (thumbnail) e uma descrição correspondente ao assunto apresentado;  RF-04 - Ao ampliar ou reduzir os valores do zoom o site deverá manter sua responsividade;  RF-05 Espaço disponível para o usuário entrar em contato e/ou tirar dúvidas relacionadas ao projeto, os campos obrigatórios de preenchimento serão: nome, e-mail e mensagem; RF-06 - O rodapé fixo estará presente em todas as abas do site, contendo um campo de inscrição de e-mail para recebimento de newsletter e o logo daPuc Minas.|
+| Requisitos Associados  |  RF-01- O cabeçalho será fixo, acompanhando o usuário por toda home page ao usar a barra de rolagem. Nele irá conter aba de login, notificação e botão home, além do logo e as redes sociais do projeto. ;
+
+RF-02 - Deverá conter na página principal 3 cards que permita a inscrição de ONGs e voluntários para a realização e disponibilização de atividades;  
+
+RF-03 - O site deve apresentar uma imagem (thumbnail) e uma descrição correspondente ao assunto apresentado;
+
+RF-04 - Ao ampliar ou reduzir os valores do zoom o site deverá manter sua responsividade; 
+
+RF-05 Espaço disponível para o usuário entrar em contato e/ou tirar dúvidas relacionadas ao projeto, os campos obrigatórios de preenchimento serão: nome, e-mail e mensagem; 
+
+RF-06 - O rodapé fixo estará presente em todas as abas do site, contendo um campo de inscrição de e-mail para recebimento de newsletter e o logo da Puc Minas.|
 | Objetivo do Teste  | Verificar se todas as abas e ícones estão direcionando para as páginas corretas.|
 | Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Visualizar a página principal |
-| Critérios de Êxito | ● O usuário, ao clicar no card que mais se identifica, será direcionado para a aba específica que quer se inscrever. ● Todos os ícones e abas devem estar direcionando para os locais corretos.   ● No espaço para contato e/ou dúvidas, caso o campo obrigatório não seja preenchido, aparecerá um tooltip com a notificação: Preencha este campo.      ● No campo de inscrição de e-mail para recebimento de newsletter, se não for preenchido, aparecerá um tooltip com a mensagem: Preencha este campo.   ● Ao clicar no logo da Puc Minas, o usuário será direcionado para um link externo. (https://icei.pucminas.br) |
+| Critérios de Êxito | ● O usuário, ao clicar no card que mais se identifica, será direcionado para a aba específica que quer se inscrever. 
+
+● Todos os ícones e abas devem estar direcionando para os locais corretos.  
+
+● No espaço para contato e/ou dúvidas, caso o campo obrigatório não seja preenchido, aparecerá um tooltip com a notificação: Preencha este campo.      ● No campo de inscrição de e-mail para recebimento de newsletter, se não for preenchido, aparecerá um tooltip com a mensagem: Preencha este campo.  
+
+● Ao clicar no logo da Puc Minas, o usuário será direcionado para um link externo. (https://icei.pucminas.br) |
 
 
 
