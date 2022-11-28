@@ -64,27 +64,72 @@ Puc Minas.
 >> - Esta aba deve apresentar ao usuário às notificações do site, como: vagas inscritas, novas vagas, novas atividades, novos voluntários etc.
 Após a realização do teste, foi constatado êxito.
 
+* CONSIDERAÇÕES: Este teste foi realizado com o objetivo de constatar que todos os usuários cadastrados estejam recebendo as notificações do site, tais como: Novidades, vagas cadastradas, voluntários cadastrados, entre outros. Após realização do teste, foi obtido êxito.
+
+
+
 **CT-04-Aba Home**
 > ![imagem_2022-11-27_164119755](https://user-images.githubusercontent.com/114962362/204156153-81dc8399-9e46-4ae4-a3d4-aa68ad88ba6d.png)
 >> | RF-09 |
 >> - Esta aba deve direcionar o usuário para a página inicial, independente de qual parte do site ele está acessando.
 Após a realização dos testes de navegação na página de notificação, o redirecionamento  ocorreu com sucesso para a página inicial através do botão de homepage.
 
+* CONSIDERAÇÕES: Teste realizado com a intenção de testar a aba “home” que ficará disponível em todas as páginas do site, inclusive na própria página inicial. Uma vez que acionada na página inicial, não mudará de aba, havendo êxito no teste realizado.
 
 
 
+**CT-05-ONG Voluntariada*
+>![Untitled design (33)](https://user-images.githubusercontent.com/114962362/204166534-e1d35096-f921-47b9-abc6-10aab404f3c9.png)
+>> | RF-10 |
+>> - Permitir que as ONGs cadastrem suas atividades, a fim de receber as inscrições de novos usuários. Após a realização dos teste, constatamos que a área para cadastro de atividades de ONGs está funcionando de acordo com os critérios estabelecidos. Apresentando nome, imagem, descrição e requisitos. Presente nesta página também um mapa de localização via Google Maps.
 
-**CT-06-Atividades**
+* CONSIDERAÇÕES: Nesta aba, os testes tinham o propósito de testar a funcionalidade de cadastro das ONGs, além de verificar se estava disponibilizando os anúncios feitos pelas instituições, após testes, foi constatado êxito.
+
+
+
+**CT-06-Seja Voluntário**
+> ![imagem_2022-11-27_210023514](https://user-images.githubusercontent.com/114962362/204166898-0baf8fb2-b7c3-475c-80d0-c5f1c418e4d6.png)
+> ![imagem_2022-11-27_210204989](https://user-images.githubusercontent.com/114962362/204167021-91c0632b-4ccc-47f3-9f2f-e2a6df4b4480.png)
+>> | RF-11 |
+>> | RF-12 |
+
+* CONSIDERAÇÕES:
+
+
+
+**CT-07-Atividades**
 > ![image](https://user-images.githubusercontent.com/114962362/204156252-3ea17d9d-af8a-42ec-8a74-4019f86c36ec.png)
 >> | RF-13 |
 >> -  Permitir que os usuários inscrevam-se nas atividades disponíveis.
 
-* CONSIDERAÇÕES
 >> ![image](https://user-images.githubusercontent.com/114962362/204156388-b7d48c1c-cccf-423a-8ed8-c8dd17f5a8c5.png)
 >> | RF-14 |
 >> - Será apresentada uma imagem (thumbnail) e, logo abaixo, uma pequena descrição correspondente à atividade em questão.
 
+* CONSIDERAÇÕES:
 
 
+
+**CT-08-Contato**
+![imagem_2022-11-27_212106707](https://user-images.githubusercontent.com/114962362/204167992-5e508d60-9310-44ea-a427-c7fd176bd398.png)
+![imagem_2022-11-27_212809111](https://user-images.githubusercontent.com/114962362/204168390-4b371a16-84a5-400d-a5d7-ac10b0e266a6.png)
+![imagem_2022-11-27_212731294](https://user-images.githubusercontent.com/114962362/204168352-2320a62e-ef1e-4b96-9bfd-52c5a251988a.png)
+![imagem_2022-11-27_212531807](https://user-images.githubusercontent.com/114962362/204168229-05c0bf05-f142-4f6e-99b5-a10b3556f39b.png)
+![image](https://user-images.githubusercontent.com/114962362/204168553-f4b08fe0-14fa-4724-bef3-007e4da8a3a6.png)
+>> | RF-15 |
+>> - Permitir que os usuários possam entrar em contato em caso de dúvidas ou informações.
+
+* CONSIDERAÇÕES:Houve a realização dos testes com o preenchimento dos campos obrigatórios e testes caso o usuário não preencha todos de forma correta. Após isso, foi constatado êxito.
+
+
+
+**CT-09-Newsletter**
+![image](https://user-images.githubusercontent.com/114962362/204168817-2590ad4d-f023-4867-8936-41835531db37.png)
+![image](https://user-images.githubusercontent.com/114962362/204168870-2d8ede79-f7cd-4a6b-a347-d0e8ada52290.png)
+>> | RF-16 | 
+>> - Permitir que os usuários se inscreva para receber as campanhas de newsletter do Projeto Voluntar.
+
+* CONSIDERAÇÕES: Após a realização dos testes, finalizado com êxito. Caso não obedeça a regra pré-definida, será gerado um tooltip com a notificação: “Preencha este campo.".
+Está correto. Teste realizado com sucesso.
 
 
