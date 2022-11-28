@@ -3,6 +3,8 @@
 O  padrão  de  layout  a  ser  utilizado  pelo  site  corresponde  ao  projeto  de  Interface apresentado anteriormente pela figura 6.
 
 ![estruturaPadrao](https://user-images.githubusercontent.com/99758232/195962353-d545f5a0-826b-4942-8874-a48cb554c273.jpeg)
+
+
 Figura 6 - Estrutura padrão do Site
 
 O template criado está disponível no site 
