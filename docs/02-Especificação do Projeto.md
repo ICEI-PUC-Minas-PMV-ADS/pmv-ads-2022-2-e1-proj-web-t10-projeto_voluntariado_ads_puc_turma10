@@ -36,10 +36,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve fornecer a funcionalidade de cadastro e login para que os potenciais voluntários e ONGs possam se registrar e ter acesso à plataforma.  | ALTA | 
-|RF-002| O sistema deve exigir no cadastro de pessoa física (voluntário) informações pessoais como: nome completo, data de nascimento, foto, endereço, e-mail, telefone, CPF e RG para facilitar a avaliação de perfil e contato com o potencial voluntário por parte das ONGs.   | ALTA |
-|RF-003| O sistema deve exigir no cadastro de pessoa jurídica (ONG) informações como: endereço, e-mail, telefone, CNPJ e breve biografia da instituição para facilitar a validação da ONG e inclusão da mesma no mapa interativo do site por parte dos administradores da plataforma.   | ALTA |
-|RF-004| O sistema deve disponibilizar um mapa dentro da plataforma dentro dos perfis das ONGs/Centros voluntariados, para facilitar o acesso a localidade    | MÉDIA |
-|RF-005| O sistema deve disponibilizar uma ferramenta de buscas por frases e palavras-chave, a ferramenta deve ter filtros de busca para que o usuário possa encontrar o que desejar dentro da plataforma com maior facilidade.| MÉDIA |
+|RF-002| O sistema deve exigir no cadastro de voluntários ou voluntariados: nome completo, e-mail, senha e CPF (voluntário) ou CNPJ (voluntariado) para que possam criar a conta e acessar a plataforma.   | ALTA |
+|RF-003| O sistema deve disponibilizar um mapa dentro da plataforma dentro dos perfis das ONGs/Centros voluntariados, para facilitar o acesso a localidade    | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -48,8 +46,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deverá ser uma aplicação web (website). | ALTA | 
 |RNF-002| O sistema deverá utilizar um framework front-end para a responsividade do site (adequação à todas plataformas).| MÉDIA | 
-|RNF-003| O sistema deverá utilizar como fonte o “font-family: arial, helvetica neue, helvetica, sans-serif” para compatibilidade máxima com a maioria dos navegadores disponíveis na web. | MÉDIA | 
-|RNF-004| O sistema deve processar requisições do usuário em no máximo 5 segundos. | BAIXA |  
 
 
 
