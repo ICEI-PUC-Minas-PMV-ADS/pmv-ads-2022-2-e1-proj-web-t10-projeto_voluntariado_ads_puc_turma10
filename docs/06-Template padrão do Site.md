@@ -36,7 +36,7 @@ Tela inicial do site, contendo seções que levam a outras partes de acesso do s
 
 **Voluntariado/ONGs**
 Seção responsável pela geração do anúncio de ONGs e centros de voluntariado no site.
-![ONG_Voluntariado]((https://user-images.githubusercontent.com/71721477/206922963-5e99b235-b054-4f00-a281-4046b88309f9.png))
+![ONG_Voluntariado](https://user-images.githubusercontent.com/71721477/206922963-5e99b235-b054-4f00-a281-4046b88309f9.png)
 
 
 **Seja Voluntário**
