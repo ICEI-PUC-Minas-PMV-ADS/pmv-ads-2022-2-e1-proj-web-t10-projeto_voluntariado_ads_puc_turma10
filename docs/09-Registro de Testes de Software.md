@@ -109,7 +109,7 @@ Após a realização dos testes de navegação na página de notificação, o re
 
 
 **CT-06-Seja Voluntário**
-> ![imagem_2022-11-27_210023514](https://user-images.githubusercontent.com/114962362/204166898-0baf8fb2-b7c3-475c-80d0-c5f1c418e4d6.png)
+> ![imagevoluntario](https://user-images.githubusercontent.com/71721477/206923127-cccbba1f-ebf9-4db8-a348-5d463ad9c239.png)
 > ![imagem_2022-11-27_210204989](https://user-images.githubusercontent.com/114962362/204167021-91c0632b-4ccc-47f3-9f2f-e2a6df4b4480.png)
 >> | RF-11 |
 >> | RF-12 |
