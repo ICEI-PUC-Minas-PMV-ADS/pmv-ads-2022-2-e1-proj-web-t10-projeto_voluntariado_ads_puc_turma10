@@ -41,7 +41,7 @@ Seção responsável pela geração do anúncio de ONGs e centros de voluntariad
 
 **Seja Voluntário**
 Seção designada ao acesso dos voluntários aos perfis das ONGs e centros de voluntariado.
-![ONG_Voluntario](https://user-images.githubusercontent.com/71721477/200195933-f18991c0-fecd-4797-9b7d-950e8682e2ba.png)
+![voluntariado atualizado](https://user-images.githubusercontent.com/71721477/200195933-f18991c0-fecd-4797-9b7d-950e8682e2ba.png)
 
 
 **Atividades**
