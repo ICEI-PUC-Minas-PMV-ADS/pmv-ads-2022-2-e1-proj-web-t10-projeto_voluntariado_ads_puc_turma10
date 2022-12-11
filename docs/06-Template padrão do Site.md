@@ -36,7 +36,8 @@ Tela inicial do site, contendo seções que levam a outras partes de acesso do s
 
 **Voluntariado/ONGs**
 Seção responsável pela geração do anúncio de ONGs e centros de voluntariado no site.
-![ONG_Voluntariado](https://user-images.githubusercontent.com/71721477/206922963-5e99b235-b054-4f00-a281-4046b88309f9.png)
+![NossoONGvoluntariado](https://user-images.githubusercontent.com/71721477/200198663-55ddddbc-6ffd-44f1-9d4e-6fd93e76f4bd.png)
+
 
 
 **Seja Voluntário**
@@ -49,6 +50,7 @@ Seção designada ao acesso dos voluntários aos perfis das ONGs e centros de vo
 **Atividades**
 Seção responsável por apresentar atividades na região do usuário, levando-o para sites externos responsáveis pela atividade clicada.
 
-![Atividades](https://user-images.githubusercontent.com/71721477/200195989-99311f85-38b0-43a8-b799-c875be926dac.png)
+![imageAtividadeAtt](https://user-images.githubusercontent.com/71721477/206923261-9ab85917-3aa0-4c0b-bde4-d2791a0f695c.png)
+
 
 
