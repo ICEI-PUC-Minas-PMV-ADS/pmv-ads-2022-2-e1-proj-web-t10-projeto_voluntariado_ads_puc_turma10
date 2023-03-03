@@ -14,7 +14,7 @@ Temos como objetivo criar um site que permita a criação de perfis para centros
 * Kaliane Silva Diniz
 * Lucas Faislon Rodrigues
 * Thiago Gomes
-* Joe Monteiro
+* Joe Monteiro de Souza
 
 ## Orientador
 
